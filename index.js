@@ -1,4 +1,4 @@
-var customerName = "Emeril Lagasse"
+var customerName = "bob"
 const leastFavoriteCustomer = 'Morimoto'
 
 function upperCaseCustomerName() {
